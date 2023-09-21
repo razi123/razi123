@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! 
-  Ich heiße Raziuddin Khazi, Ich bin Data Engineer von beruf.</h2>
-
 ###
 
 <div align="center">
